@@ -1,6 +1,6 @@
 <h1 align="center">Lucas Gabriel Caglioni Bennertz</h1>
 
-<p align="center"> 🔹Tenho 16 anos e estudo atualmente no colégio energia de Blumenau/SC.</p>
+<p align="center"> Tenho 16 anos e estudo atualmente no colégio energia de Blumenau/SC.</p>
 
 <h2 align="center">Sobre mim</h2>
 
